@@ -416,8 +416,8 @@ page_35.txt
 
 Melt chips and oleo with milk in double boiler.
 Add vanilla, flour and nuts. Drop by teaspoons
-on cookie sheet.  Bake @7 minutes only@, at 350
-degrees.  @Do not spread@.
+on cookie sheet.  Bake <u>7 minutes only</u>, at 350
+degrees.  <u>Do not spread</u>.
 
                            Celesta True
 page_36.txt
@@ -1352,7 +1352,7 @@ page_96.txt
 Mix flour, sugar and milk. Add baking powder.
 Dot bottom of 9"x 12" pan with butter. Pour
 batter into pan and spread peaches over the
-top. (@Do not stir peaches into batter.@)
+top. (<u>Do not stir peaches into batter.</u>)
 Sprinkle top with mixture of cinnamon and sugar
 and dot with butter. Bake about 30 to 45 minutes
 at 350 degrees. The batter will come to the top
@@ -1654,7 +1654,7 @@ page_118.txt
 1 8oz. pkg cream cheese    1 stick butter
 1 can mushroom soup        1 large onion chopped
 1 t. salt                                 fine
-1 T. worstershire sauce    2 T. sugar (@important@)
+1 T. worstershire sauce    2 T. sugar (<u>important</u>)
 
 Mix the above in sauce pan over low heat.  Add
 6½ oz. can crab meat.  Serve over rice or as a
