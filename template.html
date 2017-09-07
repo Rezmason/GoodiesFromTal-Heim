@@ -1,38 +1,25 @@
 <html>
     <head>
-        <title>Goodies from Tal-Heim - Page #</title>
+        <title>Goodies from Tal-Heim - Page PAGENUMBER</title>
         <link rel="stylesheet" type="text/css" href="css/main.css"/>
         <script type="text/javascript" src="scripts/nudge.js"></script>
+        <script type="text/javascript" src="scripts/copyhelper.js"></script>
     </head>
-    <body onload="nudge(true)">
+    <body class="roman" onload="nudge('JOSTLE'); CopyHelper.init();">
         <stack>
             <card></card>
             <card></card>
             <card></card>
             <card></card>
-            <card><recipe>
-                HOT CRAB DIP
-
-1 10 oz. pkg sharp cheddar cheese
-1  8 oz. pkg sliced sharp process cheddar cheese
-½ stick of butter
-½ cup of sauterne
-1 can crabmeat or 8 oz. frozen
-
-Over low heat melt butter and cheeses stirring
-constantly, add sauterne and crab meat, transfer
-to chafing dish.  Serve with Euphrate sesame
-wafers and Triscuit crackers.
-
-        "A real party hit"
-                            Celesta True
-            </recipe></card>
-            <!-- <card><img src="images/cover_final-02.svg" /></card> -->
+            <card><recipe>RECIPE</recipe></card>
+            <!-- <titlecard id="page_1_quaint"></titlecard> -->
+            <!-- <titlecard id="page_2_neat"></titlecard> -->
+            <!-- <titlecard id="page_24_neat"></titlecard> -->
         </stack>
         <footer>
-            <span style="width: 2in;"><a href="#_quaint.html">Index</a></span>
-            <span style="width: 2in; float: left;"><a href="#_quaint.html">quaint</a> • <a href="#_neat.html">neat</a></span>
-            <span style="width: 2in; float: right;"><a href="#_quaint.html"><<</a> # <a href="#_neat.html">>></a></span>
+            <span><a href="index.html">Index</a></span>
+            <span id="left"><a href="PAGENUMBER_quaint.html">quaint</a> • <a href="PAGENUMBER_neat.html">neat</a></span>
+            <span id="right"><a href="PREVIOUS_FORMAT.html"><<</a> # <a href="PREVIOUS_FORMAT.html">>></a></span>
         </footer>
     </body>
 </html>

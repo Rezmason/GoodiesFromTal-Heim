@@ -1,5 +1,6 @@
-function nudge(jostle = false) {
-    var cards = document.getElementsByTagName("card");
+function nudge(type) {
+    var jostle = type == "jostle";
+    var cards = document.querySelectorAll("card,titlecard");
     for (var i = 0; i < cards.length; i++) {
         var style = "transform:";
         if (jostle) {
@@ -10,7 +11,9 @@ function nudge(jostle = false) {
         cards[i].style = style;
     }
     if (jostle) {
-        var recipe = document.getElementsByTagName("recipe")[0];
-        recipe.style = "transform: rotate(" + (Math.random() * 2 - 1) * 2 + "deg);";
+        var recipe = document.querySelectorAll("recipe")[0];
+        if (recipe != null) {
+            recipe.style = "transform: rotate(" + (Math.random() * 2 - 1) * 2 + "deg);";
+        }
     }
 }

@@ -1,10 +1,17 @@
-html {
-    font-family: "Courier New", Courier, monospace;
+body {
+    background-color: #201518;
+    padding: 1in;
 }
 
-body {
-    background-color: #101a38;
-    padding: 1in;
+body.roman {
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+
+body.italic {
+    font-family: "Courier New", Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
 }
 
 footer {
@@ -26,25 +33,121 @@ footer a:hover {
     text-decoration: underline;
 }
 
-card {
+footer span {
+    width: 2in;
+}
+
+footer span#left {
+    float: left;
+}
+
+footer span#right {
+    float: right;
+}
+
+card, titlecard {
+    box-shadow: 0 0 10px #000000;
+    display: inline-block;
+    position: absolute;
+    width: 6in;
+    height: 4in;
     left: 0;
     right: 0;
     margin: 0 auto;
-    position: absolute;
-    text-align: left;
     transform-origin: center middle;
-    width: 6in;
-    height: 4in;
-    display: inline-block;
+    background-size: cover;
+}
+
+card {
     background-color: #fffade;
-    box-shadow: 0 0 10px #000000;
+    text-align: center;
+}
+
+titlecard {
+    -webkit-backface-visibility: hidden;
 }
 
 recipe {
-    margin: 0.5in;
+    text-align: left;
+    margin: 0.25in auto;
     transform-origin: center middle;
-    display: block;
-    font-size: 12pt;
-    color: #886600;
+    display: inline-block;
+    font-size: 11pt;
+    color: #443300;
     white-space: pre;
+}
+
+credit {
+    color: #880000;
+}
+
+u {
+    text-decoration: none;
+    border-bottom: 1.5pt solid currentColor;
+    display: inline-block;
+    line-height: 0.7;
+}
+
+titlecard#page_1_quaint {
+    background-image: url(../images/page_1_quaint.svg);
+}
+
+titlecard#page_2_quaint {
+    background-image: url(../images/page_2_quaint.jpg);
+}
+
+titlecard#page_5_quaint {
+    background-image: url(../images/page_5_quaint.jpg);
+}
+
+titlecard#page_17_quaint {
+    background-image: url(../images/page_17_quaint.jpg);
+}
+
+titlecard#page_24_quaint {
+    background-image: url(../images/page_24_quaint.jpg);
+}
+
+titlecard#page_44_quaint {
+    background-image: url(../images/page_44_quaint.jpg);
+}
+
+titlecard#page_116_quaint {
+    background-image: url(../images/page_116_quaint.jpg);
+}
+
+titlecard#page_178_quaint {
+    background-image: url(../images/page_178_quaint.jpg);
+}
+
+titlecard#page_1_neat {
+    background-image: url(../images/page_1_neat.svg);
+}
+
+titlecard#page_2_neat {
+    background-image: url(../images/page_2_neat.jpg);
+}
+
+titlecard#page_5_neat {
+    background-image: url(../images/page_5_neat.jpg);
+}
+
+titlecard#page_17_neat {
+    background-image: url(../images/page_17_neat.jpg);
+}
+
+titlecard#page_24_neat {
+    background-image: url(../images/page_24_neat.jpg);
+}
+
+titlecard#page_44_neat {
+    background-image: url(../images/page_44_neat.jpg);
+}
+
+titlecard#page_116_neat {
+    background-image: url(../images/page_116_neat.jpg);
+}
+
+titlecard#page_178_neat {
+    background-image: url(../images/page_178_neat.jpg);
 }
