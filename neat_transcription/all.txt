@@ -1,4 +1,4 @@
-page_3.txt
+page_3 Italic
 We wish to thank all of the ladies who
 
 chose to share their treasured recipes
@@ -8,7 +8,7 @@ with us, and made this book possible.
 Our sincere thanks, one and all.
 
 Happy cooking and good eating!
-page_4.txt
+page_4 Roman
           TAL-HEIM GOODIES WILL COME BACK!
 
 Next year.....plan to attend our 1971 bazaar and buy
@@ -22,7 +22,7 @@ Thank you for your patronage this year, and many
 happy hours while trying your new cookbook.
 
                             Tal-Heim Garden Club
-page_6.txt
+page_6 Italic
                CHEESE FONDUE
 
 1 lb. grated swiss cheese
@@ -34,7 +34,7 @@ Melt together then add
 garlic salt to taste
 
                             Celesta True
-page_7.txt
+page_7 Roman
                   CHEESE STRAWS
 
 2 c. New York sharp          ½ stick butter
@@ -48,7 +48,7 @@ ingredients.  Sift on top of cheese.  Work together.
 Place in pastry tube and squeeze on cookie sheet.
 Cook 10 minutes.
                               Shirley Bickerstaff
-page_8.txt
+page_8 Italic
                   CHEESE DIP
 
 1 8oz. pkg cream cheese     1 small onion
@@ -64,7 +64,7 @@ garlic.  Be sure it is of good dipping consist-
 ency. Service with potato chips or crackers.
 
                            Alice Burton
-page_9.txt
+page_9 Italic
                 CHEESE WAFERS
 
 ½ lb. grated sharp cheese   1½ c. flour
@@ -76,7 +76,7 @@ Shape into roll, chill overnight. Slice thin.
 Bake in Hot oven 375 degrees for 15 minutes.
 
                             Rosie Netterville
-page_10.txt
+page_10 Italic
                 HOT CRAB DIP
 
 1 10oz. pkg sharp cheddar cheese
@@ -92,7 +92,7 @@ sesame wafers and Triscuit crackers.
 
         “A real party hit”
                             Celesta True
-page_11.txt
+page_11 Roman
                 Curry Dip
 
 One cup of mayonnaise or Miracle Whip
@@ -105,7 +105,7 @@ mix stick garlic pod
 Best made a day early.  Delicious with raw
 carrots and cauliflower.
                         Dolores Whiteside
-page_12.txt
+page_12 Roman
                   SHRIMP DIP
 
   8 oz. cream cheese         1 T. horseradish
@@ -116,7 +116,7 @@ page_12.txt
 Mix all ingredients together.
 
                                 Shirley Paulson
-page_13.txt
+page_13 Italic
               TEXAS CHILI DIP (QUICK)
 
 3 lbs. ground chuck             3 T. catsup
@@ -129,7 +129,7 @@ meat and simmer.  Serve in chafing dish as any
 dip.  Also good over rice.
 
                           Rosie Netterville
-page_14.txt
+page_14 Roman
               Bread and Butter Pickles
 
 25 to 30 cucumbers (small basket)
@@ -146,7 +146,7 @@ to boiling point, but do not boil.  Put in jars and seal
 while still hot.
 
                                    Catherine Milling
-page_15.txt
+page_15 Italic
                   CHILI  SAUCE
 
 4 qt. tomatoes, peeled     2 cups onions
@@ -160,7 +160,7 @@ ingredients cook until thick as desired.
 Seal in pint jars.
 
                              Alice Burton
-page_16.txt
+page_16 Italic
              GREEN TOMATO RELISH
 
 Drain overnight in a cloth bag 1 peck green
@@ -176,7 +176,7 @@ all ground
 Cook until tender - Seal hot - Makes 12 pints.
 
                            Celesta True
-page_18.txt
+page_18 Roman
                 CHRISTMAS PUNCH
 
 2 to 4 pkgs. strawberry      4 Nehi orange drinks
@@ -187,7 +187,7 @@ page_18.txt
 Mix together and refrigerate.  Hawaiian Punch
 may be added if desired.
                                  Billie Clements
-page_19.txt
+page_19 Italic
               LIME SHERBET PUNCH
 
 1 quart lime sherbet       2 quarts ginger ale
@@ -200,7 +200,7 @@ bowl. Stir thoroughly to mix up. Serve
 immediate.  You will have chunks of sherbet.
 
                              Alice Burton
-page_20.txt
+page_20 Roman
               Party Punch (Pink)
 
 Makes about 32 punch cups.
@@ -218,7 +218,7 @@ are dissolved, and add:
 May be made ahead of time and froze.  Thaw and
 serve.
                         Carolyn Segrest
-page_21.txt
+page_21 Roman
               Quickie Party Punch
 
 2 cans Hawaiian Punch (grape or regular)
@@ -232,7 +232,7 @@ and mix ginger-ale in it.  Serve immediately.
 
 
                        Ginger Burton
-page_22.txt
+page_22 Roman
                   STRAWBERRY PUNCH
 
 2 c. sugar                   1 pk. strawberry Kool-aid
@@ -247,7 +247,7 @@ package and pour into 3 ice cube trays.  This can be
 made ahead of time and just before serving, add Kool-
 aid ice cubes and strawberries.
                                       Mrs. Don Cox
-page_23.txt
+page_23 Roman
                  QUICK RUSSIAN TEA
 
 7 oz. Tang                  ½ c. sugar
@@ -256,7 +256,7 @@ page_23.txt
 
 Mix all ingredients together.
                                  Bettie Braswell
-page_25.txt
+page_25 Roman
                Sourdough Pancakes
 
 Night before.  Add 2 cups lukewarm water and 2½
@@ -273,7 +273,7 @@ add 2 Tbs. sugar.  Fold this into the batter.
 Allow to stand for a few minutes, then make on
 hot griddle.
                       (Continued)
-page_26.txt
+page_26 Roman
 Starter Dough:
 
 1 pkge. yeast, ½ cup lukewarm water, 2 cups
@@ -289,7 +289,7 @@ should have a pleasantly sour odor.  The starter
 is now ready - cover it at once or refrigerate.
 
                    Dr. Joshua Carey
-page_27.txt
+page_27 Italic
                 ANGEL BISCUIT
 
 5 c. flour                 1 c. shortening
@@ -305,7 +305,7 @@ Roll and form biscuits. Let rise a little. Bake
 at 375 degrees for 10 to 12 minutes.
 
                         Celesta True
-page_28.txt
+page_28 Roman
                  BANANA NUT BREAD
 
 ½ c. shortening              ½ c. nuts
@@ -318,7 +318,7 @@ Add eggs one at a time.  Add mashed banana, nuts and
 sifted dry ingredients.  Pour into a greased bread
 pan.  Bake i hour at 350 degrees.
                                       Betty Branch
-page_29.txt
+page_29 Roman
                   MAYONNAISE ROLLS
 
 1 c. milk                    3 T. mayonnaise, heaping
@@ -328,7 +328,7 @@ Mix above ingredients, fill muffin pans about half
 full.  Bake in 400 degrees oven for about 15 mins.
 Serve hot.  Makes 12 to 16 muffins.
                                        Mrs. Don Cox
-page_30.txt
+page_30 Roman
               QUICK MAYONNAISE MUFFINS
 
 2 c. self-rising flour       1 c. milk
@@ -341,7 +341,7 @@ drained), cheese cubes, nuts, dried fruit, or
 bacon may be added to muffins.  Bake in min-
 iature pans.
                                   Billie Clements
-page_31.txt
+page_31 Italic
               MEXICAN CORN BREAD
 
 1 c. corn meal             1 c. chopped green
@@ -357,7 +357,7 @@ Bake in greased 13 × 9 pan for 45 minutes, at
 350 degrees or until done.
 
                        Rosie Netterville
-page_32.txt
+page_32 Roman
                    MEXICAN CORNBREAD
 
  1¾ c. self-rising cornmeal   1 c. grated sharp cheese
@@ -369,7 +369,7 @@ Cook as for cornbread.  Half this recipe for average
 family.
 
                                Nancy Inman
-page_33.txt
+page_33 Italic
              BASIC BUTTER COOKIE
                          (old recipe)
 
@@ -389,7 +389,7 @@ cut into desired shapes.  Frost with sugar icing.
 add tablespoons of milk until frosting consistency
 is reached.
                              Rosie Netterville
-page_34.txt
+page_34 Roman
                  Butterscotch Dollies
 
 Don't preheat                          350°
@@ -407,7 +407,7 @@ Turn out on foil and cut when warm in 1" sq.
 Yields about 7 doz.
 
                         Ginger Burton
-page_35.txt
+page_35 Italic
              CHOCOLATE COOKIES
 
 2 pkg chocolate chips      1 t. vanilla
@@ -420,7 +420,7 @@ on cookie sheet.  Bake <u>7 minutes only</u>, at 350
 degrees.  <u>Do not spread</u>.
 
                            Celesta True
-page_36.txt
+page_36 Roman
                COCOA BROWNIES
 
 ¾ c. sifted flour            ½ c. soft butter
@@ -434,7 +434,7 @@ speed for 2 minutes; add nuts.  Bake in greased
 Cool; cut in squares.  Yield 16 2 inch squares.
 
                                     Betty Branch
-page_37.txt
+page_37 Italic
                COWBOY COOKIES
 
 2 c. flour                 2 eggs
@@ -451,7 +451,7 @@ ungreased cookie sheet and bake 10 minutes in
 375 degree oven.
 
                                Jean Hart
-page_38.txt
+page_38 Italic
               NO-BAKE COOKIES
 
 Step I
@@ -468,7 +468,7 @@ oatmeal (uncooked quick oats). Drop by teaspoons
 on wax paper.
 
                               Carolyn Segrest
-page_39.txt
+page_39 Italic
           EASY PEANUT BUTTER COOKIES
 
 1 c. sugar                 ½ c. peanut butter
@@ -484,7 +484,7 @@ at 350 degrees about 10 to 12 minutes.  Makes
 about three dozen cookies.
 
                             Carolyn Segrest
-page_40.txt
+page_40 Italic
                ENGLISH TOFFEE
 
 1 cup butter
@@ -503,7 +503,7 @@ hot water and sprinkle with chopped nuts.
 Break toffee and store in a tightly covered
 tin for at least two days.
                             Celesta True
-page_41.txt
+page_41 Roman
               Hello Dolly Cookies
 
 Melt 1 stick of oleo in 9 × 13 inch pan you are
@@ -517,7 +517,7 @@ Do not stir.  Bake at 325° for 30 mtes.
 
 
                           Jean Hart
-page_42.txt
+page_42 Roman
                   Pumpkin Bars
 
  ¼ cup shortening            2 Cups brown sugar
@@ -531,7 +531,7 @@ page_42.txt
 Mix and bake at 350° for 45 minutes .
 
                              Sonia Koudelka
-page_43.txt
+page_43 Italic
               WONDERFUL PECAN BALLS
 
 2 sticks butter            2 c. pecans
@@ -544,7 +544,7 @@ at 275 degrees.
 
 
                            Rosie Netterville
-page_45.txt
+page_45 Roman
         Barbara's Bridge Club Cake
 
 2 cups self-rising flour     1 teas. cinnamon
@@ -563,7 +563,7 @@ when cool with, 1 Tabl. lemon juice, 1 cup conf.
 sugar and 2 Tabl. milk.
 
                               Barbara Kacker
-page_46.txt
+page_46 Italic
             BLACK BOTTOM CUP CAKES
 
 Step I                  Preheat oven 350 degrees
@@ -583,7 +583,7 @@ Step II
 Half fill lined muffin tins with Step II mixture.
 Drop heaping T. of Step I into each. Bake 25 min.
                          Rosie Netterville
-page_47.txt
+page_47 Roman
                 Brown Sugar Pound Cake
 
  1 box light brown sugar     ½ cup granulated sugar
@@ -602,7 +602,7 @@ mix well.
 Bake in greased and floured tube pan at 325° for one
 hour and fifteen mtes.
                        (continued)
-page_48.txt
+page_48 Roman
                       Icing
 
  1 8oz. pkg. cream cheese    1 stick butter
@@ -615,7 +615,7 @@ and mix well.  Add nuts and vanilla.  If too stiff
 add 2 Tabl. cream.  Spread on cooled cake.
 
                           Laura Johnson
-page_49.txt
+page_49 Italic
                   CHEESECAKE
 
 2 8oz. pkg cream cheese    ½ c. sugar
@@ -631,7 +631,7 @@ room temperature and then refrigerate at least
 over night before serving.
 
                                Jean Hart
-page_50.txt
+page_50 Roman
                      CARROT CAKE
 
 3 c. grated carrots        1½ c. oil
@@ -648,7 +648,7 @@ fold in carrots and nuts.  Pour into greased and
 floured pans.  Bake at 350 degrees 35-40 minutes
 or until springy.
                                Shirley Paulson
-page_51.txt
+page_51 Roman
                      CARROT CAKE
 
 2 c. plain flour             ½ t. salt
@@ -662,7 +662,7 @@ Icing:  ½ stick oleo, 1 box conf. sugar, 8 oz. cream
 cheese, 2½ t. vanilla, and 1 c. pecans.
 
                                      Bettie Braswell
-page_52.txt
+page_52 Italic
           THREE LAYER COCONUT CAKE
 
 ½ t. butter flavoring       1 box yellow cake mix
@@ -677,7 +677,7 @@ which have been greased and floured. Bake at 350
 degrees for 25 to 30 minutes.
 
                              Carolyn Segrest
-page_53.txt
+page_53 Italic
       FROSTING FOR THREE LAYER COCONUT CAKE
 
   2 egg whites              1½ c. sugar
@@ -695,7 +695,7 @@ form a peak when beater is lifted.  Remove from water
 and add vanilla. Spread on cake and top with coconut.
 You may use fresh  or frozen coconut if desired.
                                Carolyn Segrest
-page_54.txt
+page_54 Italic
               COCONUT POUND CAKE
 
 3 sticks oleo              8 oz. cream cheese
@@ -711,7 +711,7 @@ Pour in greased and floured tube pan. Bake at 300
 degrees for 1½ hours.
 
                               Celesta True
-page_55.txt
+page_55 Italic
              FRUIT COCKTAIL CAKE
 
 2 c. flour                1½ c. sugar
@@ -730,7 +730,7 @@ Bring to boil and boil for 2 minutes. Stir in 1
 cup coconut and 1 t. vanilla. Pour over cake while
 both are hot
                            Jean Hart
-page_56.txt
+page_56 Roman
                       Fruit Cake
 Makes about 5 lbs.
 
@@ -746,7 +746,7 @@ Optional - Can soak cake in whiskey or fruit 24 hrs.
 Cut all fruit and nuts together.  Over fruit sift
 flour, sugar, salt and baking powder mixed together.
                                 (Continued)
-page_57.txt
+page_57 Roman
 Over this mixture pour four eggs well beaten &
 flavoring.  Mix well by hand.  Bake in tube pan in
 oven at 275° - then set tube pan in a pan of hot
@@ -760,7 +760,7 @@ After cake is done, it can be glazed, if desired.
 
 
                           Audrey Sanford
-page_58.txt
+page_58 Roman
           Fruit Glaze for Fruit Cake
 
 1 Tabl. light corn syrup     2 Tabl. water
@@ -774,7 +774,7 @@ Spread over cake with cloth or brush.
 
 
                           Audrey Sanford
-page_59.txt
+page_59 Roman
                   GRAHAM CRACKER CAKE
 
  3 c. graham cracker crumbs     2 t. baking soda
@@ -789,7 +789,7 @@ Then add coconut and walnuts.  Bake in 13×9½ inch
 pan at 350 degrees for 30 to 45 minutes.  Top
 with whipped cream.
                                 Mrs. Barbara Kacker
-page_60.txt
+page_60 Italic
               ITALIAN CREAM CAKE
 
 1 t. soda                  1 stick margarine
@@ -808,7 +808,7 @@ Fold in stiffly beaten egg whites. Pour batter
 into 4 greased and floured 8 inch cake pans.
 
                    continued
-page_61.txt
+page_61 Italic
           Italian Cream Cake continued
 
 Bake at 350 degrees for 25 minutes or until
@@ -827,7 +827,7 @@ Spread between layers, top and sides. sprinkle
 with pecans.
 
                              Claudine Tatum
-page_62.txt
+page_62 Italic
                    OATMEAL CAKE
 
 Pour 1½ cups boiling water over 1 cup three min.
@@ -842,7 +842,7 @@ Sift together: 1½ cups plain flour, 1 teaspoon soda
 Add oatmeal mixture, Bake 350 degrees for 30 min.
 Bake in 9 × 13 × 2 inch pan.
                             Carolyn Segrest
-page_63.txt
+page_63 Italic
              TOPPING FOR OATMEAL CAKE
 
 1 stick butter                ¾ c. brown sugar
@@ -853,7 +853,7 @@ over cake and cook 5 minutes more.
 
 
                                   Carolyn Segrest
-page_64.txt
+page_64 Italic
           PENN SHERATON CHEESE CAKE
 
 For the filling you will need
@@ -870,7 +870,7 @@ to egg mixture until soft and smooth.
 For crust, Lining butter and sides of pan
 
               continued
-page_65.txt
+page_65 Italic
 ½ c. graham cracker crumbs ¼ t. cinnamon
 ½ c. zwelback crumbs       white of 1 egg
 3 T. sugar
@@ -888,7 +888,7 @@ lightly greased cookie sheet to un-mold it. Then
 invert browned side is up. Serve with strawberry
 sauce if you like.
                             Celesta True
-page_66.txt
+page_66 Roman
                       PINTO BEAN CAKE
 
 2 c. cooked pinto beans,     1 c. flour
@@ -905,7 +905,7 @@ Bake in well greased angle food pan at 375 for 45 min.
 Pour glaze over while hot and decorate with cherries
 and nuts.  Glaze:  ½ c. cherry juice, 1c. conf. sugar.
                                      Mrs. Don Cox
-page_67.txt
+page_67 Roman
                         Prune Cake
 
     1 cup butter             1 teas. cinnamon
@@ -923,7 +923,7 @@ Filling:  Melt ¼ lb. stick butter in a pound of
 powdered sugar.  Juice and grated rind of 1
 orange and 1 lemon.
                           (continued)
-page_68.txt
+page_68 Roman
 Icing:  1 cup sugar (take out 6 Tabl. to add
 to egg white).  Take the remaining sugar, ½
 cup water, 1 teas. Karo syrup and cook until
@@ -940,7 +940,7 @@ for 30 or 40 mtes. or until done.  May be baked
 in layers or loaf or muffins.
 
                              Audrey Sanford
-page_69.txt
+page_69 Roman
                      Prune Cake
 
 
@@ -958,7 +958,7 @@ Sift together:
 2 cups flour                 2 teas. soda
 1 teas. salt                 1 teas. nutmeg
 1 teas. ground cloves        1 teas. cinnamon
-page_70.txt
+page_70 Roman
 Measure:
 
 1 cup buttermilk
@@ -969,7 +969,7 @@ and then reduce heat to 325° and bake 15 minutes.
 
 
                       Shirley Bickerstaff
-page_71.txt
+page_71 Roman
                        Sheik Cake
 
 2 cups sugar and 2 cups flour sifted together.  Place
@@ -988,7 +988,7 @@ chocolate icing while still hot.  Leave in pan.
 
 Start icing about 5 mtes before cake is done.  Put
 in small pan: 1 stick oleo, 4 Tbl. cocoa and 6 Tabl.
-page_72.txt
+page_72 Roman
 milk.  Mix together and bring to boil.  Remove from
 heat and add 1 box powdered sugar.  Beat and then
 add 1 cup chopped pecans.
@@ -998,7 +998,7 @@ and cut into squares as we eat it.
 
 
                                Laura Johnson
-page_73.txt
+page_73 Roman
                   ONE STEP SPICE CAKE
 
 2 c. self-rising flour       3 eggs
@@ -1013,7 +1013,7 @@ Bake for 45 minutes at 325 degrees.  When cake is cool
 glaze with juice of lemon and 1 c. conf. sugar.
 
                                Mrs. Barbara Kacker
-page_74.txt
+page_74 Roman
          Strawberry Angel Food Cake
 
  1 Angel Food cake     1 pkge. frozen berries
@@ -1031,7 +1031,7 @@ water, add juice from berries and put over low
 heat until it comes to a boil.  Remove from heat
 and let cool.  Combine cooled juice and gelatine
                         (Continued)
-page_75.txt
+page_75 Roman
 mixture, strawberries, ½ pt. stiff whipped cream,
 and cake pieces.  Put back into cake shell, put
 lid on.  Let sit in refrigerator for 3 or 4
@@ -1041,7 +1041,7 @@ This is also good using peaches.
 
 
                          Nancy Murphy
-page_76.txt
+page_76 Roman
                     STRAWBERRY CAKE
 
 1 pkg. white cake mix        4 eggs
@@ -1060,7 +1060,7 @@ Filling:  1 box conf. sugar
 Combine.  Frost between layers, sides and top of
 cooled cake.
                                 Mrs. Barbara Kacker
-page_77.txt
+page_77 Italic
               VANILLA WAFER CAKE
 
 2 sticks oleo              2 cups sugar
@@ -1074,7 +1074,7 @@ vanilla wafers alternatively with milk. Add
 coconut and nuts. Bake 1½ hours at 325 degrees
 in tube pan.
                         Marion Fowler
-page_78.txt
+page_78 Italic
                   WHITE CAKE
 
 1 c. oleo                  2 c. sugar
@@ -1091,7 +1091,7 @@ Fold in stiffly beaten egg whites. Pour into
 on rack to cool. Frost with 7 minute icing.
 
                              Alice Burton
-page_79.txt
+page_79 Italic
               SEVEN MINUTE ICING
 
 1-7/8 c. sugar             6 T. water
@@ -1106,7 +1106,7 @@ vanilla both in the cake and icing. Also use the
 milk from the coconut as the liquid in the icing.
 
                             Alice Burton
-page_80.txt
+page_80 Roman
                       YELLOW CAKE
 
 2 c. sugar                   2 c. and 2 T. flour
@@ -1120,7 +1120,7 @@ hour at 350 degrees.  Delicious plain or served
 with fruit and cream.
 
                                   Bettie Braswell
-page_81.txt
+page_81 Roman
                    SUMMER BLUEBERRY PIE
 
  1 c. water                  Grated rind of 2 lemons
@@ -1139,7 +1139,7 @@ first mixture.  Cook 2 to 3 minutes.  Cool to
 room temperature.  Whip the cream with the sugar,
 salt, and vanilla. Pour blueberry mixture into the
 pie shells.  Top with cream.      Shirley Bickerstaff
-page_82.txt
+page_82 Roman
                       Chess Pie
 
  ½ cup buttermilk            ½ stick oleo,
@@ -1153,7 +1153,7 @@ pie shell and bake at 350° for 40 mtes. or until
 a knife inserted comes out clean.
 
                         Jean Hart
-page_83.txt
+page_83 Italic
              CHOCOLATE CANDY PIE
 
 20 regular size marshmallows) Cook over low heat
@@ -1169,7 +1169,7 @@ into mixture. Pour into 9" graham cracker pie
 shell.  Place into freezer to chill.
 
                           Celesta True
-page_84.txt
+page_84 Roman
                   Chocolate Pie
 
 ½ teas. salt                1½ cups sugar
@@ -1185,7 +1185,7 @@ and pour into baked pie shell.  Cover with meringue
 and bake at 325° until brown (about 25 mtes.)
 
                           Laura Johnson
-page_85.txt
+page_85 Roman
                    COCONUT CREAM PIE
 
   ½ c. sugar                 3 egg yolks, beaten
@@ -1201,7 +1201,7 @@ Stir thoroughly.  Remove from heat.  Add vanilla
 and coconut.  Cool.  Pour into baked pastry shell.
 Cover with meringue.
                                      Betty Branch
-page_86.txt
+page_86 Roman
                       Coconut Pie
 
 Single crust 9" pie plate      4 eggs - beat
@@ -1212,7 +1212,7 @@ Mix above ingredients and put a little coconut on top.
 Bake 45 minutes to 1 hour at 325°.
 
                                 Sonia Koudelka
-page_87.txt
+page_87 Roman
                  Easy Butterscotch Pie
 
 Beat with an egg beater:
@@ -1227,7 +1227,7 @@ into two baked 8" pie shells.  Use egg whites for
 meringue.
 
                                Betty Darr
-page_88.txt
+page_88 Italic
                   FUDGE PIE
 
 2 sqs unsweetened chocolate  1 stick oleo
@@ -1243,7 +1243,7 @@ a few minutes before serving. Use regular or
 graham cracker crust. (May be topped with
 vanilla ice cream.
                             Marion Fowler
-page_89.txt
+page_89 Italic
                GRASSHOPPER PIE
 
 Crust: 1½ c. chocolate cookies crushed
@@ -1256,7 +1256,7 @@ menthe, 3 T. creme de cocoa. Fold in marsh-
 mallow mixture. Fill pie shell and chill.
 
                              Celesta True
-page_90.txt
+page_90 Roman
                        LUBY'S PIE
 
 3 egg whites (beaten stiff)  1 c. graham cracker
@@ -1270,7 +1270,7 @@ pan at 350 degrees for 25 minutes.  After cooled,
 top with whipped cream.  Chill thoroughly before
 serving
                              Mrs. Barbara Kacker
-page_91.txt
+page_91 Roman
                          Oatmeal Pie
 
   2 eggs beaten            2/3 cup melted marg.
@@ -1284,7 +1284,7 @@ Mix together and pour in pie shell.  Bake at
 pie.
 
                                    Jean Hart
-page_92.txt
+page_92 Roman
                       Peach Pie
 
 6 Cups Peaches               2 Cups sugar
@@ -1298,7 +1298,7 @@ and milk.  Pour batter over melted butter, do not stir.
 Add the peaches, do not stir.  Bake at 350° for 1 hour.
 
                               Barbara Cagle
-page_93.txt
+page_93 Roman
                         PECAN PIE
 
 3 eggs                       ¼ c. butter
@@ -1309,7 +1309,7 @@ Pour into uncooked pie shell and bake 10 min. at
 375 degrees.  Reduce to 350 degrees and bake 50
 min.  Yield- 1 pie.
                                     Bettie Braswell
-page_94.txt
+page_94 Roman
                        PECAN PIE
 
 6 T. butter                  Dash of salt
@@ -1324,7 +1324,7 @@ Bake until firm, 45-50 minutes at 350 degrees.
 Serve with whipped cream.  Yield- 1 9-inch pie
 
                                       Betty Branch
-page_95.txt
+page_95 Roman
                      Fresh Strawberry Pie
 
   1 baked 9" pie shell       1 cup sugar
@@ -1342,7 +1342,7 @@ ready to serve, then cover with whipped cream.
 (3 pints of strawberries will make two 8" pies, and
 increase the sauce by one-half.)
                                  Betty Darr
-page_96.txt
+page_96 Italic
                SPEEDY PEACH PIE
 
 1 c. flour                 1 c. sugar
@@ -1359,7 +1359,7 @@ at 350 degrees. The batter will come to the top
 and peaches will settle to the bottom.
 
                            Carolyn Segrest
-page_97.txt
+page_97 Italic
                     FUDGE
 
 5½ c. sugar                 1 stick oleo
@@ -1374,7 +1374,7 @@ until melted and dissolved.  Pour in greased pan.
 Makes about 5 lbs. Add nuts last.
 
                             Alice Burton
-page_98.txt
+page_98 Italic
               PEANUT BUTTER FUDGE
 
 2 c. sugar                 ½ c. milk
@@ -1390,7 +1390,7 @@ to bowl with peanut butter and mix only until
 completely blended.  Pour into buttered dish and
 let cool.  DO NOT OVERMIX
                            Celesta True
-page_99.txt
+page_99 Roman
                    BLUEBERRY SUPREME
 
 1 box vanilla wafers (8oz.)  1 can blueberry pie
@@ -1408,7 +1408,7 @@ Cover with 1 can blueberry pie filling.  Spread
 ½ c. chopped pecans on whipped cream and top with
 remaining crumbs.  Refrigerate for 24 hours.
                                 Mrs. Barbara Kacker
-page_100.txt
+page_100 Roman
                       CHERRY TART
 
  1 c. flour                  ½ c. chopped nuts
@@ -1422,7 +1422,7 @@ butter and cherries and fold in nuts.  Bake in
 greased 9" pan for 45 minutes at 350 degrees.
 
                             Bettie Braswell
-page_101.txt
+page_101 Roman
                       CHERRY SAUCE
 
 1 c. cherry juice            1 T. butter
@@ -1433,7 +1433,7 @@ Cook 10 minutes stirring constantly.  Serve over
 cherry tarts topped with ice cream.
 
                                  Bettie Braswell
-page_102.txt
+page_102 Italic
              DOUBLE MINT DELIGHT
 
  12 Girl Scout mint cookies  ¼ t. mint flavoring
@@ -1448,7 +1448,7 @@ cookies between wax paper. Place crumbs in 8×8×2
 over crumbs. Refrigerate until firm.
 
                            Celesta True
-page_103.txt
+page_103 Roman
                 FROZEN LEMON DESSERT
 
 1 large can evaporated     Pinch salt
@@ -1462,7 +1462,7 @@ sugar, salt and rind.  Mix well.  Pour on crumb
 crust.  Sprinkle thick layer of crumbs on top and
 freeze.  Cut in squares to serve.
                                 Mrs. Barbara Kacker
-page_104.txt
+page_104 Roman
                   MAKE AHEAD DAZZLER
 
 For crust:
@@ -1479,7 +1479,7 @@ chocolate mix.  Fold in heavy cream, whipped, ¾
 cups chopped pecans, pour over crumbs.  Freeze.
 
                                   Mrs. Don Cox
-page_105.txt
+page_105 Italic
            PEANUT BRITTLE MOUSSE
                         (very old recipe)
 
@@ -1494,7 +1494,7 @@ Combine above and serve in goblets or parfait
 glasses.
 
                           Rosie Netterville
-page_106.txt
+page_106 Roman
               Pecan Tea Tarts
 
 Cream Cheese pastry:
@@ -1512,7 +1512,7 @@ small Teflon muffin tins.  Fill with pecan mixture.
 Bake 30 minutes at 350°.
 
                                    Shirley Bickerstaff
-page_107.txt
+page_107 Italic
              PINEAPPLE SURPRISE
 
  ½ lb. vanilla wafers        ½ c. oleo
@@ -1528,7 +1528,7 @@ Sprinkle crumbs over top. Chill 12 hours. Slice
 in square and top with cherries.
 
                          Celesta True
-page_108.txt
+page_108 Roman
                    Quickie Dessert
 
 1 pkg. Crescent rolls        ½ Cup apricot jam
@@ -1541,7 +1541,7 @@ Mix and pour over pastry:
 Pour in oven for 5 to 6 mtes.  Serve warm.
 
                            Sonia Koudelka
-page_109.txt
+page_109 Roman
                   Vanilla Ice Cream
 
 ½ Gal. crank or electric freezer
@@ -1554,7 +1554,7 @@ beating.  Add remaining ingredients and mix well.
 Freeze in ice cream freezer.
 
                               Catherine Milling
-page_110.txt
+page_110 Roman
            REFRIGERATED GREEN VEGETABLE SALAD
 
 2 pckgs. green beans         2 t. Worcestershire
@@ -1567,7 +1567,7 @@ Cook frozen vegetables according to directions.
 Drain.  Combine all ingredients and refrigerate over-
 night.
                                   Mrs. Barbara Kacker
-page_111.txt
+page_111 Roman
                     Yorkshire Pudding
 Delicious with roast beef
 
@@ -1580,7 +1580,7 @@ gradually.  Beat for 10 to 15 minutes.  Pour into
 greased and heated pan and bake for 20 to 30 mtes.
 
                             Shirley Bickerstaff
-page_112.txt
+page_112 Roman
                   COFFEE CREAM TOPPING
 
 1 egg white                  1 c. heavy cream
@@ -1595,7 +1595,7 @@ Fold in coffee mixture.  Serve on plain or angel
 food cake or as filling for tarts.
 
                                   Barbara Kacker
-page_113.txt
+page_113 Roman
                Peanut Butter Sauce
 
 Great over vanilla ice cream
@@ -1608,7 +1608,7 @@ Mix sugar, corn syrup, water and salt.  Simmer 10 mtes.
 Cool. Stir syrup slowly into the peanut butter.
 
                        Shirley Bickerstaff
-page_114.txt
+page_114 Roman
                   RICH-CREAMY FROSTING
 
 1 8 oz. pkg. cream cheese    1 stick butter or oleo
@@ -1618,7 +1618,7 @@ With cheese and butter at room temperature, mix
 all together well.
 
                                Shirley Paulson
-page_115.txt
+page_115 Italic
              SOUR CREAM FILLING
 
 2 T. flour                 1 c. sour cream
@@ -1632,7 +1632,7 @@ of cake.  Cover top and sides with whipped
 cream.
 
                            Celesta True
-page_117.txt
+page_117 Roman
                      ALASKA LUNCH
 1 can salmon               1 c. milk
 3 raw potatoes             1 egg
@@ -1648,7 +1648,7 @@ bine and pour over the milk, beaten egg, and sal-
 mon liquid.  Sprinkle cracker crumbs and dot with
 butter.  Season each layer.  Bake at 350 degrees
 for 1 hour.                          Mrs. Don Cox
-page_118.txt
+page_118 Italic
                  CRAB NEWBURG
 
 1 8oz. pkg cream cheese    1 stick butter
@@ -1660,7 +1660,7 @@ Mix the above in sauce pan over low heat.  Add
 6½ oz. can crab meat.  Serve over rice or as a
 dip.
                            Rosie Netterville
-page_119.txt
+page_119 Italic
                 SHRIMP DELIGHT
 
 1 1/3 c. uncooked rice     1 clove garlic
@@ -1676,7 +1676,7 @@ shrimp add cooked rice and put in casserole.
 Cover with cheese and toasted bread crumbs. Bake
 30 minutes at 350 degrees.
                           Celesta True
-page_120.txt
+page_120 Italic
                  SHRIMP GUMBO
 
 1 lb. shrimp               3 c. water
@@ -1695,7 +1695,7 @@ and simmer 30 minutes. Add the shrimp and season-
 ing and simmer for about 15 minutes. Serve over
 rice.
                              Jean Hart
-page_121.txt
+page_121 Roman
                   SEAFOOD CASSEROLE
 
 1 lb. crabmeat               1 c. chopped celery
@@ -1711,7 +1711,7 @@ casserole.  Top with potato chips and sprinkle with
 paprika.  Bake at 400 degrees for 25 minutes until
 thoroughly heated.  Serves 6.
                                      Mavery Elam
-page_122.txt
+page_122 Roman
                   TUNA CASSEROLE
 
 1 can mushroom soup         ¼ c. chopped onion
@@ -1722,7 +1722,7 @@ page_122.txt
 Mix, reserving ½ of noodles for top.  Bake at 325
 degrees for 40 minutes.
                                   Mrs. Barbara Kacker
-page_123.txt
+page_123 Italic
               TUNA ON THE SHELL
 
  4 cans tuna               4 c. white sauce
@@ -1737,7 +1737,7 @@ Serve in the shell with a sprig of parsley on
 top.
 
                              Ann Hulen
-page_124.txt
+page_124 Roman
                    Sukiyaki
 
 Cut across grain into paper thin slices - 1½
@@ -1755,7 +1755,7 @@ it aside temporarily.
 
 Put into skillet:
                     (continued)
-page_125.txt
+page_125 Roman
 ½ cup chicken broth    2 Tabl. sugar
     bouillon will do   ½ teas. monosodium
 ¼ cup plus dash          glutamate
@@ -1774,7 +1774,7 @@ given and put into skillet.
 1 small can pimento, cut into strips
 
                    (continued)
-page_126.txt
+page_126 Roman
 Cook covered for 5 minutes, then remove cover and
 add the seared meat.  Cook uncovered another 5
 minutes.  Serve over bowls of fluffy rice.
@@ -1783,7 +1783,7 @@ The combination of ingredients sounds horrible,
 but it is a delightful surprise.  Happy eating!
 
                      Dolores Whiteside
-page_127.txt
+page_127 Roman
               CALCUTTA BEEF BALLS
 
   2 lbs. hamburger      1 egg
@@ -1801,7 +1801,7 @@ bacon drippings.  Add ½ cup water, cover and sim-
 mer 30 to 45 minutes.  When done, make gravy and
 add to cabbage and onions.
                                     Mrs. Don Cox
-page_128.txt
+page_128 Roman
                   Cantonese Beef Balls
 
 Preheat oven to 350°.  Combine 1 lb. ground chuck,
@@ -1819,7 +1819,7 @@ Remove from heat and set aside.  Heat 2 Tabl.
 butter in a small skillet.  Add ½ cup blanched
 almonds.  Fry slowly until golden; set aside.
                        (continued)
-page_129.txt
+page_129 Roman
 Following package directions, cook 1 cup pre-
 cooked rice.
 
@@ -1834,7 +1834,7 @@ sauce.  Top with the crisp fried almonds.
 Makes 4 servings.
 
                        Dolores Whiteside
-page_130.txt
+page_130 Roman
                           MEAT BALLS
 
 1 - 2 lb. ground beef           2 T. minced onion
@@ -1848,7 +1848,7 @@ Heat 1 or 2 cans Franco American beef gravy.
 Add meat balls and serve over rice or potatoes.
 
                                Shirley Paulson
-page_131.txt
+page_131 Roman
                      Hamburger Quickie
 
 ]/2 Lb. Ground Beef             2 Cups milk
@@ -1867,7 +1867,7 @@ cheese over top.  Bake in a hot oven, 425° for 20 to
 cutting into wedges.
 
                                     Carolyn Segrest
-page_132.txt
+page_132 Italic
               HUSBAND'S DELIGHT
        CHEESE AND SOUR CREAM CASSEROLE
 
@@ -1887,7 +1887,7 @@ sour cream. Grease baking dish lightly. Put layers
 noodles, meat sauce, sour cream mixture and grated
 cheese, ending cheese on top. Bake 20 minutes 350°.
                                Celesta True
-page_133.txt
+page_133 Roman
                    LASAGNA CASSEROLE
 
 2 T. salad oil              ¾ t. oregano
@@ -1906,7 +1906,7 @@ cover with layer of sauce.  Top with layer of each
 cheese.  Repeat layering process 3 times.  Bake at
 375 degrees for 15-20 min.  Yield:  6 servings.
                                        Betty Branch
-page_134.txt
+page_134 Roman
                 INDIVIDUAL LEMON BEEFIES
 
 1½ lb. ground chuck or round  ¼ t. each salt & pepper
@@ -1924,7 +1924,7 @@ Sauce: 1/3 c. catsup             ¼ t. A-1 Sauce
 Combine all ingredients & spoon over loaves.
 Place in oven for 10 min. longer.  Remove from
 oven & put slices of lemon on top.    Barbara Kacker
-page_135.txt
+page_135 Roman
              Quick Ground Meat Dinner
 
 1 lb. ground beef            2 Cups rice
@@ -1935,7 +1935,7 @@ Brown meat in onions and celery.  Mix remainder.  Bake
 at 400° for one hour.
 
                              Sonia Koudelka
-page_136.txt
+page_136 Roman
                  Stroganoff Casserole
 
 1 lb. ground beef            1 can mushrooms
@@ -1952,7 +1952,7 @@ This is a very large recipe and could be divided in
 half, if desired.
 
                               Audrey Sanford
-page_137.txt
+page_137 Italic
                    WESTERN HAMBURGERS
 
  3 lb. ground round              3 lb. ground chuck
@@ -1969,7 +1969,7 @@ knead. Put full bottle of sesame seed on waxed
 paper. Make meat patties and bread in sesame
 seeds and cook on grill.
                              Marion Fowler
-page_138.txt
+page_138 Roman
                       SAUSAGE BALLS
 
 1 lb. hot sausage            ½ lb. grated sharp cheese
@@ -1979,7 +1979,7 @@ Mix together well.  Form into small balls.  Bake
 on broiler pan 15 to 20 minutes at 350 degrees.
 
                              Shirley Bickerstaff
-page_139.txt
+page_139 Roman
                        FRUITED PORK CHOPS
 
 6 pork chops                    1 T. corn starch
@@ -1996,7 +1996,7 @@ ingredients and pour over chops.  Cover and bake at
 350 degrees for 45 minutes.  Good with rice or potatoes.
 
                                        Mrs. Don Cox
-page_140.txt
+page_140 Roman
             ORIENTAL BARBECUED SPARE RIBS
 
 3 lbs. spare ribs            2 t. ground ginger
@@ -2014,7 +2014,7 @@ aside for basting.  Cover pan of ribs with foil.
 Bake in 325 degrees over for 1½ hours.  Remove ribs
 from pan and place on rack.  Broil in lowest position
                                             (Con't.)
-page_141.txt
+page_141 Roman
               ORIENTAL BARBECUED SPARE RIBS
 
 (Con't.)
@@ -2024,7 +2024,7 @@ about 25 minutes or until glazed and brown.
 Makes about 4 regular servings or 6 small servings.
 
                                      Betty Branch
-page_142.txt
+page_142 Roman
                  SWEET AND SOUR RIBS
 
 3 lbs. lean spareribs      1/3 c. cider or wine
@@ -2042,7 +2042,7 @@ After baking ribs, pour sauce over ribs and
 bake 45 to 50 minutes longer, basting frequent-
 ly.  Makes four servings
                                  Celeste Green
-page_143.txt
+page_143 Italic
              CORNED BEEF BUNWICHES
 
 8 to 10 buns (we like the hot dog buns)
@@ -2058,7 +2058,7 @@ To serve, heat in moderate oven 25 minutes or
 till hot through.
 
                            Celesta True
-page_144.txt
+page_144 Italic
              CORNED BEEF CASSEROLE
 
 Combine: 12 oz. can corned beef
@@ -2073,7 +2073,7 @@ crumbs or Wheaties.
 Can substitute cream of celery soup.
 
                       Celesta True
-page_145.txt
+page_145 Roman
                        EASY CHILI
 
 2 lbs. ground beef, brown and season
@@ -2085,7 +2085,7 @@ soup.  Heat.  This is not highly seasoned so add
 chili powder if you like it hot.
 
                                 Shirley Paulson
-page_146.txt
+page_146 Italic
                ARROZ CON POLLO
              CHICKEN & YELLOW RICE
 
@@ -2104,7 +2104,7 @@ slowly and add th following: 1 large can of party
 early peas with juice, 2 larg cans of asparagus
 spears with juice, 2 cups long grain uncooked rice,
                     continued
-page_147.txt
+page_147 Italic
           ARROZ CON POLLO CONTINUED
 
 1 tablespoon Bijol (spice can be purchased at Bruno's)
@@ -2120,7 +2120,7 @@ Before serving garnish on top with pimento halves
 and slices of hard boiled eggs.  Serves 6 to 8 people.
 
                                  Cary Baker
-page_148.txt
+page_148 Roman
               CHICKEN & BROCCOLI CASSEROLE
 
 2 pkgs. frozen broccoli      1 c. mayonnaise
@@ -2139,7 +2139,7 @@ chicken & broccoli.  Top with cheese and bread
 crumbs.  Dot with butter.  Bake in 350 degrees
 oven for 35 minutes.  Serves 10.
                                    Nancy Inman
-page_149.txt
+page_149 Roman
                   Chicken Casserole
 
 4 Cups cooked diced chicken  4 Cups soft bread crumbs
@@ -2156,7 +2156,7 @@ casserole.  Cook in shallow pan of water in 350° oven
 for one hour.
 
                               Catherine Milling
-page_150.txt
+page_150 Italic
                 CHICKEN DIVINE
 
 4 lb. chicken meat         3 T. sherry
@@ -2174,7 +2174,7 @@ greased casserole. Arrange chicken and broccoli
 in layers. Pour sauce over layers. Sprinkle with
 cheese and almonds. Bake in 250 degree oven until
 it bubbles. Serves 6 - 8.      Celesta True
-page_151.txt
+page_151 Roman
                    Fix-Ahead Chicken
 
 Skin, halve and remove small rib bones from 6
@@ -2191,7 +2191,7 @@ rice.  This may be made early in the morning, or
 even the day before you want to serve it.  It
 won't taste “left over”.
                             Betty Darr
-page_152.txt
+page_152 Italic
                CHICKEN MANDALAY
 
 8 chicken breast or 4 cut in half.
@@ -2210,7 +2210,7 @@ freezer to oven). Stir in sugar, beef broth, onions
 water, apricots, lemon juice and soy sauce in
 chicken drippings heat to boiling. If using
                 continued
-page_153.txt
+page_153 Italic
 bouillon cubes, crush in sauce. Pour over chicken.
 Cool, cover, freeze.
 
@@ -2220,7 +2220,7 @@ covered, in cold oven (set for 350 degrees). Bake
 Serve over hot rice or noodles. Serves 8.
 
                             Celesta True
-page_154.txt
+page_154 Roman
                      Olive Chick-etti
 
   2 cups cooked chicken,     2 Tabl. cooking oil
@@ -2237,7 +2237,7 @@ olives and cheese.  Combine the salt, broth and
 tomatoes; pour over ingredients and cover slightly.
 Cook over high heat until steaming, turn to simmer
 and cook 30 mtes.  Yields 6-8.     Jean Hart
-page_155.txt
+page_155 Roman
                CHICKEN & RICE CASSEROLE
 
 1 can mushroom soup          Onion, sliced
@@ -2253,7 +2253,7 @@ drippings, and bring to boil.  Add other ingred-
 ients.  Heat, pour in casserole.  Cover and cook
 for 1 hour at 350 degrees.
                                Mrs. Barbara Kacker
-page_156.txt
+page_156 Italic
          QUICK CHICKEN AND SPAGHETTI
 
 1 flat can Swanson's chicken  1 can mushroom
@@ -2270,7 +2270,7 @@ grated cheese.  Add 1T. sugar and pepper to
 taste. Let simmer. Mix with cooked spaghetti.
 
                          Rosie Netterville
-page_157.txt
+page_157 Roman
                    SWEET-SOUR CHICKEN
 
 ½ t. salt                  1 c. French's mustard
@@ -2286,7 +2286,7 @@ vinegar the last 10 minutes.  Chicken thighs are best.
 Bake at 425 degrees.  When nearly done, baste with
 sauce two or three times.  Serve sauce over rice.
                                     Mrs. Don Cox
-page_158.txt
+page_158 Roman
                   Chicken Tetrazzini
 
  1 lge. hen                 2 green peppers chopped
@@ -2304,7 +2304,7 @@ casserole.  Bake in 400° oven until hot.  Sprinkle 1 can
 chinese noodles over top before sering - or toasted
 almonds.
                               Laura Johnson
-page_159.txt
+page_159 Italic
        HAM SOUFFLÉ & SWISS CHEESE SAUCE
 
 Mix: ½ c. mayonnaise            ¼ c. flour
@@ -2322,7 +2322,7 @@ Melt: one pkg sliced swiss cheese
 Stir in: ¼ t. Worcestershire sauce
          3 drops liquid hot pepper 2 T. pimento
 If too thick, thin with hot milk. Celesta True
-page_160.txt
+page_160 Italic
                ARTICHOKE BALLS
 
 2 cans Artichoke hearts
@@ -2338,7 +2338,7 @@ mixture. Then roll into balls and then roll in
 additional bread crumbs. Refrigerate.
 
                          Celesta True
-page_161.txt
+page_161 Roman
                   ASPARAGUS CASSEROLE
 
 1 large can green            2 T. butter
@@ -2356,7 +2356,7 @@ over all.  Saute bread crumbs in butter, mix
 with cheese and spread over top.  Bake at 300
 degrees about 30 min. or until mixture is brown
 and bubbly.                    Mrs. Barbara Kacker
-page_162.txt
+page_162 Italic
               PICKLED ASPARAGUS
 
  1/3 c. vinegar            1 stick cinnamon
@@ -2371,7 +2371,7 @@ hours and chill. Double for 4 cans of green
 asparagus.
 
                             Celesta True
-page_163.txt
+page_163 Roman
                    Broccoli Casserole
 
 ¼ cup finely chopped onion   2 Tabs. flour
@@ -2390,7 +2390,7 @@ greased 1¼ quart casserole and cover with
 crumbs.  Dor with remaining butter.  Bake at
 325° for 30 mtes.  Serves 8.  Can be baked ahead
 of time and warmed when needed.  Betty Darr
-page_164.txt
+page_164 Italic
               CARROTS MARINATED
 
 1 can tomato soup           ½ c. Wesson oil
@@ -2406,7 +2406,7 @@ onions. Refrigerate. May be made well ahead of
 time.
 
                                Celesta True
-page_165.txt
+page_165 Roman
                      CORN CASSEROLE
 
 1 can whole kernel          1 can mushroom soup
@@ -2422,7 +2422,7 @@ ingredients together and pour into greased casserole
 dish, top with cheese.  Bake at 325 degrees for 30 min.
 
                                        Mrs. Don Cox
-page_166.txt
+page_166 Italic
               GARLIC GRITS CASSEROLE
 
 1 c. grits                    2 eggs, beaten
@@ -2436,7 +2436,7 @@ Bake at 300 degrees for 45 minutes. Sprinkle with
 grated cheese and paprika and bake 15 minutes longer.
 
                               Rosie Netterville
-page_167.txt
+page_167 Italic
              GREEN BEAN CASSEROLE
 
 1 can French green beans   1 can French Fried
@@ -2453,7 +2453,7 @@ used for topping of casserole instead of reserved
 onion rings.
 
                               Marion Fowler
-page_168.txt
+page_168 Italic
               GREEN BEAN PUFF
 
 4 c. cooked green beans    ¼ t. salt
@@ -2472,7 +2472,7 @@ with paprika. Bake 15 minutes in a 400 degree
 oven until sauce puffs and browns and the beans
 are thoroughly heated.
                             Celesta True
-page_169.txt
+page_169 Roman
              Green Beans and Tomatoes
 
 In frying pan, slightly brown 2 or 3 strips of
@@ -2484,7 +2484,7 @@ powder can also be added.  Simmer until well mixed
 for approximately 30 minutes.
 
                          Nancy Murphy
-page_170.txt
+page_170 Roman
                    Picnic Beans
 
 1 lge. onion, chopped        1 can Mexicorn
@@ -2496,7 +2496,7 @@ Chili powder (optional)
 Simmer for one hour.
 
                             Betty Darr
-page_171.txt
+page_171 Italic
                 RICE CASSEROLE
 
 1¼ c. uncooked rice
@@ -2511,7 +2511,7 @@ Uncover and bake 15 minutes longer.
 
 
                               Celesta True
-page_172.txt
+page_172 Roman
                     Peach Pie
 
 6 Cups Peaches                     2 Cups sugar
@@ -2525,7 +2525,7 @@ and milk.  Pour batter over melted butter, do not stir.
 Add the peaches, do not stir.  Bake at 350° for 1 hour.
 
                               Barbara Cagle
-page_173.txt
+page_173 Roman
               “WILDWOOD” POTATOES
 
 24 new potatoes              1 onion, sliced
@@ -2539,7 +2539,7 @@ night.  Remove garlic after a few minutes.  Warm
 before serving.  Serve potatoes in their jackets.
 
                                  Billie Clements
-page_174.txt
+page_174 Roman
                   SPINACH & CREAM CHEESE
 
 2 pkgs. chopped frozen       ½ stick butter
@@ -2553,7 +2553,7 @@ casserole and sprinkle with Parmesean cheese.
 Heat thoroughly in 350 degrees oven.  Serves
 6 to 8.
                          Shirley Bickerstaff
-page_175.txt
+page_175 Roman
                     Squash Casserole
 
 Alternate layers of sliced yellow squash, sliced
@@ -2563,7 +2563,7 @@ cook one hour or less in 350° oven.
 
 
                          Shirley Bickerstaff
-page_176.txt
+page_176 Italic
                SQUASH CASSEROLE
 
 1½ lbs. squash            1 c. mushroom soup
@@ -2578,7 +2578,7 @@ cheese and cracker crumbs. Cook 15 minutes
 more.
 
                               Celesta True
-page_177.txt
+page_177 Italic
               STUFFED MUSHROOMS
 
 1 stick oleo               2 eggs beaten
@@ -2595,7 +2595,7 @@ in buttered baking dish. Fill, sprinkle with
 grated cheese. Bake 375 degrees 15 to 20 minutes.
 Baste with additional oleo to keep moist.
                             Celesta True
-page_179.txt
+page_179 Italic
             APPLE SALAD WITH SAUCE
 
 2 apples                   handful of nuts
@@ -2609,7 +2609,7 @@ forms sauce. Then mix with apples and nuts
 and serve.
 
                               Ann Hulen
-page_180.txt
+page_180 Italic
                 CHINESE SLAW
 
 Open and drain well:
@@ -2627,7 +2627,7 @@ hours in
 ¾ c apple vinegar        1 T. salt
 ¾ c. sugar               ¼ t. Tabasco sauce
 Covered, will keep 10 days.  Celesta True
-page_181.txt
+page_181 Roman
       Cole-Slaw Congealed Salad  (Soufflé)
 
  1 pkge. lemon Jello    1 cup hot water
@@ -2644,7 +2644,7 @@ partially set.  Beat until fluff.  Add rest of
 ingredients and chill.
 
                       Catherine Milling
-page_182.txt
+page_182 Roman
                Cranberry Salad
 
 1 6oz. pkge. raspberry Jello
@@ -2656,7 +2656,7 @@ Sprinkle chopped pecans over top.
 Mix and let congeal.
 
                                 Barbara Cagle
-page_183.txt
+page_183 Italic
               CRANBERRY SALAD
 
 1 lb. cranberries (chopped)
@@ -2670,7 +2670,7 @@ above.
 
 
                       Rosie Netterville
-page_184.txt
+page_184 Roman
                  Cranberry Salad
 
 1 box cherry Jello           1 Cup hot water
@@ -2687,7 +2687,7 @@ of unbeaten egg white.  Then, fold in:
 Refrigerate till firm.  Serve on crisp lettuce.
 
                             Catherine Milling
-page_185.txt
+page_185 Roman
                     FIVE FRUIT SALAD
 
 1 c. mandarin oranges        1 c. miniature marsh-
@@ -2698,7 +2698,7 @@ page_185.txt
 Mix all ingredients together.  Nuts may be added.
 
                                Nancy Inman
-page_186.txt
+page_186 Roman
                 FROZEN FRUIT SALAD
 
 1 lb. 13 oz. can of          ½ c. mayonnaise
@@ -2710,7 +2710,7 @@ and cherries.  Mix with pineapple which has been
 drained.  Turn into a refrigerator tray and freeze
 until firm.
                                  Mrs. Barbara Kacker
-page_187.txt
+page_187 Roman
                   Holiday Salad
 Serves 10
 
@@ -2729,7 +2729,7 @@ whipped.  Pour into dish and let set until well set
 up.  Dissolve cherry Jello into 1 cup hot water -
 add 1 cup cool water.  Cool Jello and pour on top
 of other mixture.             Laura Johnson
-page_188.txt
+page_188 Roman
              Italian Pepperoni Salad
 
 1 head lettuce, torn in pieces
@@ -2746,7 +2746,7 @@ dressing and salt and pepper, toss well.  Pour
 dressing over salad and toss again.  Sprinkle
 Bacos and croutons on top just before serving.
 Makes approximately 6 servings. C. Segrest
-page_189.txt
+page_189 Roman
              Lemon Lime Gelatin Salad
 
 1 pkge. lime Jello           1 pkge. lemon Jello
@@ -2764,7 +2764,7 @@ When lime Jello is firm, whip cream, mix in
 softened cream cheese.  Drain pineapple thoroughly
 and use juice in lemon Jello.
                              (Continued)
-page_190.txt
+page_190 Roman
 Mix pineapple and marshmallows with cream cheese
 and whipped cream.  Spread on lime Jello and
 return to refrigerator to set.  When lemon Jello
@@ -2772,7 +2772,7 @@ begins to thicken, pour over other Jello.  Let
 set until firm and serve as salad or as dessert.
 
                          Alice Burton
-page_191.txt
+page_191 Italic
                MARINATED BEAN SALAD
 
   1 can Blue Lake french cut green beans
@@ -2789,7 +2789,7 @@ Dash pepper
 Marinate at least 12 hours.
 
                            Rosie Netterville
-page_192.txt
+page_192 Roman
                  Molded Salad
 
 1 sm. can crushed      ½ cup sugar
@@ -2809,7 +2809,7 @@ Mix whipped cream and mixture above thoroughly
 and pour over cherries.  Chill.
 
                           Nancy Murphy
-page_193.txt
+page_193 Italic
           ORANGE SHERBET FRUIT SALAD
 
 2 pkg orange Jello dissolved in 2 c. hot water
@@ -2828,7 +2828,7 @@ or 2 pkgs. Dream Whip. Fold into cold custard.
 Spread over Jello.
 for dessert sprinkle with 1 c. nuts. for salad
 sprinkle with cheddar cheese.    Celesta True
-page_194.txt
+page_194 Roman
             Pimento Macaroni Salad
 
 1½ pepper diced             1½ pimento diced
@@ -2841,7 +2841,7 @@ Dressing:
 2 Tabl. milk                 1 teas. salt
 
                       Sonia Koudelka
-page_195.txt
+page_195 Roman
            Pineapple Cottage Cheese Loaf
 
 1 #2 can crushed pineapple   2 env. unflavored gel.
@@ -2860,7 +2860,7 @@ ingredients.  Pour into mold and chill until firm.
 Garnish with mayonnaise and green pepper if desired.
 The 2 Tabl. pineapple set aside is not used in
 recipe.                       Laura Johnson
-page_196.txt
+page_196 Roman
                  Silhouette Salad
 
 Serves 4 - 140 calories per serving
@@ -2878,7 +2878,7 @@ Place over low heat and stir until gelatin is
 dissolved.  Remove from heat and blend in soup until
 smooth - add remaining ½ cup water, lemon juice
                           (continued)
-page_197.txt
+page_197 Roman
 and pepper - Chill to consistency of unbeaten egg
 white.  Fold in chicken, celery, green pepper,
 pimento and onion.
@@ -2886,7 +2886,7 @@ pimento and onion.
 Turn into mold and chill until firm.
 
                            Laura Johnson
-page_198.txt
+page_198 Roman
                  Strawberry Salad
 
 2 sm. or lge. straw. Jello     1 cup boiling water
@@ -2903,7 +2903,7 @@ with the other half of strawberry mixture.
 When congealed, cut in squares and serve on
 lettuce.
                         Carolyn Segrest
-page_199.txt
+page_199 Roman
                       TUNA JELLO SALAD
 
  1 pk. lemon Jello           3 boiled eggs
@@ -2916,7 +2916,7 @@ Mix Jello mixture and tuna mixture and pour into
 mold.  Refrigerate.
 
                                       Mrs. Don Cox
-page_200.txt
+page_200 Italic
             BAR B Q BASTING SAUCE
 
 ½ c. brown sugar           1 lemon juiced
@@ -2931,7 +2931,7 @@ to basting consistency.  Baste meat or marinate
 before cooking.  Continue to baste until meat is
 done.
                                Earl Burton
-page_201.txt
+page_201 Italic
         CHURRASCO (MARINATING SAUCE)
 
 1 c. wine vinegar          3 T. lemon juice
@@ -2944,7 +2944,7 @@ Mix altogether and soak roast or chickens over-
 night.  Then bar-b-que on grill. delicicous.
 
                             Ann Hulen
-page_202.txt
+page_202 Roman
 Dressing for Vegetables, Fish or Varied Fruit Salads
 
 1 tsp. salt                  1 egg
@@ -2960,7 +2960,7 @@ once and will keep for good while in refrigerator.
 
 
                               Audrey Sanford
-page_203.txt
+page_203 Italic
               ROQUEFORT CHEESE
 
 4 oz. Roquefort cheese     1 small onion
@@ -2977,7 +2977,7 @@ thick thin with a little half and half as you
 use it.
 
                                Celesta True
-page_204.txt
+page_204 Roman
                   TANGY FRENCH DRESSING
 
 1/3 c. sugar                 ½ c. ketchup
