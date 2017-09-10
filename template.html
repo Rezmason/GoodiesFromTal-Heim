@@ -1,25 +1,20 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
-        <title>Goodies from Tal-Heim - Page PAGENUMBER</title>
+        <meta charset="utf-8"/>
+        <title>Goodies from Tal-Heim - Page ::pageNumber::</title>
+        <link rel="stylesheet" type="text/css" href="css/font.css"/>
         <link rel="stylesheet" type="text/css" href="css/main.css"/>
         <script type="text/javascript" src="scripts/nudge.js"></script>
         <script type="text/javascript" src="scripts/copyhelper.js"></script>
+        <script type="text/javascript" src="scripts/arrowhelper.js"></script>
     </head>
-    <body class="roman" onload="nudge('JOSTLE'); CopyHelper.init();">
-        <stack>
-            <card></card>
-            <card></card>
-            <card></card>
-            <card></card>
-            <card><recipe>RECIPE</recipe></card>
-            <!-- <titlecard id="page_1_quaint"></titlecard> -->
-            <!-- <titlecard id="page_2_neat"></titlecard> -->
-            <!-- <titlecard id="page_24_neat"></titlecard> -->
-        </stack>
+    <body class="roman" onload="nudge('::jostle::'); CopyHelper.init(); ArrowHelper.init();">
+        <stack class="::fontStyle::">::content::</stack>
         <footer>
-            <span><a href="index.html">Index</a></span>
-            <span id="left"><a href="PAGENUMBER_quaint.html">quaint</a> • <a href="PAGENUMBER_neat.html">neat</a></span>
-            <span id="right"><a href="PREVIOUS_FORMAT.html"><<</a> # <a href="PREVIOUS_FORMAT.html">>></a></span>
+            <span><a href="index.html">Home</a></span>
+            <span id="left"><a href="::pageNumber::_quaint.html">quaint</a> • <a href="::pageNumber::_neat.html">neat</a></span>
+            <span id="right"><a href="::prevPageNumber::_::currentFormat::.html"><<</a> ::pageNumber:: <a href="::nextPageNumber::_::currentFormat::.html">>></a></span>
         </footer>
     </body>
 </html>

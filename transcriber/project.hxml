@@ -1,0 +1,6 @@
+-x Main
+-cp src
+-resource ../template.html@html_template
+-resource ../transcription/all.txt@quaint_text
+-resource ../neat_transcription/all.txt@neat_text
+-resource ../pagedata.txt@page_data

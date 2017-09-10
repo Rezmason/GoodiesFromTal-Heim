@@ -1,0 +1,25 @@
+/* If you like this font, be a mensch and license it from ohnotype.co */
+
+@font-face {
+    font-family: 'Vulf Mono';
+    src:    url('../fonts/Vulf_Mono-Regular_web.eot');
+    src:    url('../fonts/Vulf_Mono-Regular_web.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/Vulf_Mono-Regular_web.woff') format('woff'),
+            url('../fonts/Vulf_Mono-Regular_web.woff2') format('woff2'),
+            url('../fonts/Vulf_Mono-Regular_web.ttf') format('truetype'),
+            url('../fonts/Vulf_Mono-Regular_web.svg#svgFontName') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vulf Mono Italic';
+    src:    url('../fonts/Vulf_Mono-Italic_web.eot');
+    src:    url('../fonts/Vulf_Mono-Italic_web.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/Vulf_Mono-Italic_web.woff') format('woff'),
+            url('../fonts/Vulf_Mono-Italic_web.woff2') format('woff2'),
+            url('../fonts/Vulf_Mono-Italic_web.ttf') format('truetype'),
+            url('../fonts/Vulf_Mono-Italic_web.svg#svgFontName') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}

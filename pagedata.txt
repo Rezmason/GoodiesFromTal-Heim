@@ -202,4 +202,3 @@
 202 Roman
 203 Italic
 204 Roman
-205 Illustrated

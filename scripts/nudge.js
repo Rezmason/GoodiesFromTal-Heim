@@ -1,23 +1,23 @@
 function nudge(type) {
-    var jostle = type == "JOSTLE";
+    var jostle = type == "jostle";
     var cards = document.querySelectorAll("card,titlecard");
     for (var i = 0; i < cards.length; i++) {
-        var cardStyle = "transform:";
+        var cardStyle = "";
         if (jostle) {
-            cardStyle += " rotate(" + rand(1.5) + "deg)";
+            cardStyle += " rotate(" + rand(2) + "deg)";
+        } else {
+            cardStyle += " rotate(" + rand(0.5) + "deg)";
         }
         cardStyle += " translateY(" + i * -3 + "pt)"
-        cardStyle += ";"
-        cards[i].style = cardStyle;
+        cards[i].style.setProperty("transform", cardStyle);
     }
     if (jostle) {
         var recipe = document.querySelectorAll("recipe")[0];
         if (recipe != null) {
-            var recipeStyle = "transform:";
+            var recipeStyle = "";
             recipeStyle += " rotate(" + rand(1) + "deg)";
             recipeStyle += " translate(" + rand(10) + "pt, " + rand(10) + "pt)";
-            recipeStyle += ";";
-            recipe.style = recipeStyle;
+            recipe.style.setProperty("transform", recipeStyle);
         }
     }
 }
